@@ -1,6 +1,4 @@
-python -m spacy download en_core_web_sm
-spacy
 flask
+spacy
 pdfplumber
 Levenshtein
-python -m spacy download en_core_web_md
